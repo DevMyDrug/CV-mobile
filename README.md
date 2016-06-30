@@ -1,2 +1,0 @@
-# CV-mobile
-Create Readme
